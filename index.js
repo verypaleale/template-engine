@@ -33,5 +33,5 @@ function promptUser() {
             message: "Which type of team member would you like to add?",
             choices: ["Engineer", "Intern", "I don't want to add any more"]
         }
-    ])
-}
+    ]);
+};
